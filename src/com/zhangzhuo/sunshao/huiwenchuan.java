@@ -27,7 +27,7 @@ public class huiwenchuan {
      */
     public static boolean isHuiWen(String inputString) {
         /*
-         * 例如：3443 的 length=4， 第一个位置为0， leftChar = 3 inputString.charAt(4)
+         * 例如：3443 的 length=4， 第一个位置为0， leftChar = 3
          *
          * 3   4   4   3
          * 0   1   2   3
