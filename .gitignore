@@ -1,11 +1,8 @@
-# General
-**/.gitignore
-
 # IDEA
 **/*.iml
 **/.idea/
 **/target/
-**/out
+**/out/
 
 # Eclipse
 **/.classpath
