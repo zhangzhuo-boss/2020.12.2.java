@@ -6,13 +6,13 @@ public class Tixin {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int A;
-		int B;
-		int H;
+		double A;
+		double B;
+		double H;
 		Scanner in = new Scanner(System.in);
-		A = in.nextInt();
-		B = in.nextInt();
-		H = in.nextInt();
+		A = in.nextDouble();
+		B = in.nextDouble ();
+		H = in.nextDouble() ;
 		System.out.println((A + B) * H / 2);
 	}
 
